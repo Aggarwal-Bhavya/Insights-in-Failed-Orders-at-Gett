@@ -33,7 +33,7 @@ The data preprocessing is done using Python. You can review the code used for da
 
 The visualizations of the failed orders are created in Tableau. You can view the interactive dashboard here:
 
-[Tableau Visualization](https://public.tableau.com/views/InsightsofFailedOrderatGett/Story1?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Visualization](https://public.tableau.com/shared/SH4GPJB6P?:display_count=n&:origin=viz_share_link)
 
 Based on visualization results, following recommendations are made:
 
